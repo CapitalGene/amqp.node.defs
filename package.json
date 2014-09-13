@@ -1,0 +1,29 @@
+{
+  "name": "amqplib-defs",
+  "homepage": "http://lcsrc.cloudapp.net/capitalgene/amqp-node-defs",
+  "main": "./lib/defs.js",
+  "version": "0.0.1",
+  "private": true,
+  "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+  "repository": {
+    "type": "git",
+    "url": "git@lcsrc.cloudapp.net:capitalgene/amqp-node-defs.git"
+  },
+  "engines": {
+    "node": "0.8 || 0.9 || 0.10 || 0.11"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "2.4.x"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "AMQP",
+    "AMQP 0-9-1",
+    "RabbitMQ"
+  ],
+  "author": "Michael Bridgen <mikeb@squaremobius.net>",
+  "license": "MIT"
+}
