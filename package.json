@@ -1,13 +1,13 @@
 {
-  "name": "amqplib-defs",
-  "homepage": "http://lcsrc.cloudapp.net/capitalgene/amqp-node-defs",
+  "name": "amqp-node-defs",
+  "homepage": "https://github.com/CapitalGene/amqp.node.defs",
   "main": "./lib/defs.js",
   "version": "0.0.1",
   "private": true,
-  "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
+  "description": "Static Defs for An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
   "repository": {
     "type": "git",
-    "url": "git@lcsrc.cloudapp.net:capitalgene/amqp-node-defs.git"
+    "url": "https://github.com/CapitalGene/amqp.node.defs.git"
   },
   "engines": {
     "node": "0.8 || 0.9 || 0.10 || 0.11"
