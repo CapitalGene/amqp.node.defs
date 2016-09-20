@@ -3,7 +3,6 @@
   "homepage": "https://github.com/CapitalGene/amqp.node.defs",
   "main": "./lib/defs.js",
   "version": "0.0.1",
-  "private": true,
   "description": "Static Defs for An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
   "repository": {
     "type": "git",
