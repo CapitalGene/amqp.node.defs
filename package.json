@@ -27,5 +27,8 @@
     "RabbitMQ"
   ],
   "author": "Michael Bridgen <mikeb@squaremobius.net>",
+  "contributors": [
+    "Chen Liang <code@chen.technology>"
+  ],
   "license": "MIT"
 }
